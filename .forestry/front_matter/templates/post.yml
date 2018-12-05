@@ -7,3 +7,5 @@ fields:
   name: tag
   label: Tag
   description: Add a tag "work" or "post" to categorise this page
+pages:
+- content/work/sample.md
