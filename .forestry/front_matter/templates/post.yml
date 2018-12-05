@@ -7,5 +7,16 @@ fields:
   name: tag
   label: Tag
   description: Add a tag "work" or "post" to categorise this page
+- type: include
+- type: text
+- type: select
+  name: layout
+  config:
+    source:
+      type: simple
+    options:
+    - work/single
+  label: Layout
+  description: Layout to use
 pages:
 - content/work/sample.md
