@@ -1,6 +1,7 @@
 {{ define "main" }}
 <div>
   <h1>{{ .Title }}</h1>
+  <img src={{ .Params.main_image }} alt="" />
   {{ .Content }}
 </div>
 {{ end }}

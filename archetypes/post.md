@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
-layout: work/single
+layout: post/single
 ---
 
 **Insert Lead paragraph here.**
