@@ -1,8 +1,9 @@
 ---
 title: Home
-slug: '/'
+slug: "/"
 layout: index
----
 
-## Subtitle
-wfwefwefwewefwe w ew
+---
+## Welcome to my site
+
+Here is my content.
