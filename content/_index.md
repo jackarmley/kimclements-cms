@@ -1,8 +1,9 @@
 ---
 title: Home
-slug: '/'
+slug: "/"
 layout: index
----
 
+---
 ## Subtitle
-wfwefwefwewefwe w ew
+
+wfwefwefwewefwe w ew jjk
