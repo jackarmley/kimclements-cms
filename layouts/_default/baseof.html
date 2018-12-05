@@ -10,7 +10,13 @@
       {{ end }}</title>
   </head>
   <body>
-    {{ block "main" . }}
-    {{ end }}
+    <header role="banner">
+      <a href="/">{{ .Site.Title }}</a>
+      {{ partial "header/site-nav" . }}
+    </header>
+    <main role="main">
+      {{ block "main" . }}
+      {{ end }}
+    </main>
   </body>
 </html>

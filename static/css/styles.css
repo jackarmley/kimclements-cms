@@ -2,6 +2,9 @@
 * Kim Clements site
 **/
 
+/**
+* Set base font size
+**/
 html {
   font-size: 62.5%;
 }
@@ -9,3 +12,20 @@ html {
 body {
   font: normal 160%/1.5 sans-serif;
 }
+
+/**
+* Normalize
+**/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/**
+* Typography
+**/
+
+/**
+* Layout
+**/
