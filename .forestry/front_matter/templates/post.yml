@@ -15,7 +15,7 @@ fields:
     source:
       type: simple
     options:
-    - work/single
+    - post/single
   label: Layout
   description: Layout to use
 - type: file
