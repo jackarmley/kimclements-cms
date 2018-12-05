@@ -8,5 +8,3 @@ fields:
   name: content
   label: Page content
   description: Add some main content!
-pages:
-- content/about/about-me.md
