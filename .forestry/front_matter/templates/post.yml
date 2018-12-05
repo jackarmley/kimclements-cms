@@ -1,0 +1,9 @@
+---
+label: Post
+hide_body: false
+is_partial: false
+fields:
+- type: tag_list
+  name: tag
+  label: Tag
+  description: Add a tag "work" or "post" to categorise this page
