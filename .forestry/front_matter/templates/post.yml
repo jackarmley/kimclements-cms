@@ -18,5 +18,11 @@ fields:
     - work/single
   label: Layout
   description: Layout to use
+- type: file
+  name: main_image
+  label: Main image
+  description: Add a large image
+  config:
+    maxSize: '5'
 pages:
 - content/work/sample.md
